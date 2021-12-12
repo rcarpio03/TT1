@@ -4,4 +4,4 @@
 - Santiago Cueva
 - Axel Herrera
 
-![](Diapositiva1.png)
+![](Diapositiva1.JPG)
